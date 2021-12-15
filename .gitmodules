@@ -1,0 +1,3 @@
+[submodule "product-and-cart"]
+	path = product-and-cart
+	url = ./product-and-cart-vue-clie/product-and-cart
